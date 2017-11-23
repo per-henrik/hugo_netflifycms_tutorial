@@ -1,5 +1,5 @@
 ---
-title: "Min side oppdatert"
+title: "Min side mer oppdatert"
 date: 2017-10-30T11:54:04+01:00
 featured_image: images/villarica-volcano-chile.jpg
 draft: true
